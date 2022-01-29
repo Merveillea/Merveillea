@@ -1,6 +1,6 @@
 
 # base image
-FROM node:14
+FROM node:16
 
 # set working directory
 WORKDIR /backend
