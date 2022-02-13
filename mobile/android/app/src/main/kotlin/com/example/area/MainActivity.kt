@@ -1,4 +1,4 @@
-package com.nemesix.are
+package com.example.area
 
 import io.flutter.embedding.android.FlutterActivity
 

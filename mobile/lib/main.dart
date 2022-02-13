@@ -2,6 +2,9 @@ import 'package:flutter/material.dart';
 import 'package:area/helpers/theme.dart';
 import 'locator.dart';
 import 'routes.dart';
+import './views/login/login.view.dart';
+import './views/splash/splash.view.dart';
+
 
 /// [globalInitializer()]
 /// Function to initialise all the pre-app things
@@ -22,8 +25,10 @@ class App extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'Area',
       theme: appTheme,
+      debugShowCheckedModeBanner: false,
+      home: const SplashView(),
       onGenerateRoute: (settings) => AppRouter.generateRoute(settings),
     );
   }
