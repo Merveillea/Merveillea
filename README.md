@@ -22,8 +22,3 @@ Epitech final project of the third year. Web development project consisting of a
   > http://localhost/8080
 
 ## Action and reaction proposition
-
-
-### Intranet:
-- **Action:** Inscription a une activité. il ajoute un reminder google
-- **Reaction:** Reminder Google
