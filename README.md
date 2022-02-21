@@ -24,4 +24,15 @@ Epitech final project of the third year. Web development project consisting of a
 ## AREA SERVICES
 
 Welcome to our amazing AREA. We have 11 Services to you. Let's display it:
-(Twitter)
+- Twitter
+- Youtube
+- Gmail
+- Google Calandar
+- Spotify
+- Github
+- Rss
+- Instagram
+- Facebook
+- Trello
+- Intranet
+- Google keeps
