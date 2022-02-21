@@ -24,32 +24,44 @@ Epitech final project of the third year. Web development project consisting of a
 ## Action and reaction proposition
 
 
-### Intranet: ###
-- a l'inscription a une activité, il ajoute un reminder google  
+### Intranet:
+-**Action:** Inscription a une activité. il ajoute un reminder google
+-**Reaction:** Reminder Google
 
-**Spotify:**
-- faire un tweet lorsqu'on decide de partager une playlist
-- faire rajouter un nouveau son poster ayant rapport a spotify dans sa stream list 
+### Spotify:
+-**Action:** Partager une playlist
+-**Reaction:** Faire un tweet
+-**Reaction:** Faire rajouter un nouveau son poster ayant rapport a spotify dans sa stream list 
 
-**Github:**
-- creation d'un repo, rajoute le nom du projet a google task et un daily reminder est créé
-- creation d'un repo et un post sur twitter ou github
-- creation d'un repo et creer une plauylist spotify avec le meme intitulé 
-- contribuer a un projet et s'abonner directement a la page twitter de ce dernier ou reddit 
+### Github:
+-**Action:** Creation d'un repo 
+-**Reaction:** Rajoute le nom du projet a google task et un daily reminder est créé
+-**Action:** Creation d'un repo 
+-**Reaction:** Post sur twitter ou github
+-**Action:** Creation d'un repo 
+-**Reaction:** Creer une plauylist spotify avec le meme intitulé 
+-**Action:** Contribuer a un projet 
+-**Reaction:** S'abonner directement a la page twitter de ce dernier ou reddit 
 
-**Meteo:**
-- en fonction de la temperature proposer des notifs de playlist avec des intitulés commme 'sunny ou rainy ou cold ou hot'
-gmail
+### Meteo:
+-**Reaction:** En fonction de la temperature proposer des notifs de playlist avec des intitulés commme 'sunny ou rainy ou cold ou hot'
 
-**Youtube:**
-- proposition de sons youtube qui detende en fonction de la meteo 
+### Gmail
 
-**Twitter:** 
+### Youtube:
+-**Reaction:** Proposition de sons youtube qui detende en fonction de la meteo 
+
+### Twitter:
 - ajouter les nouveaux posts job a ses google notes 
-- tweet son sur spotify a ajouter a sa playlist spotify
+-**Action:** Tweet son sur spotify 
+-**Reaction:** Ajouter a sa playlist spotify
 
-**Reddit:**
-- a chaque post creer un post twitter 
-- a chaque post creer un evenement goggle calendar pour marquer le jour et le contenu
-- post son sur reddit automatically add on spotify 
-- nouveau post de projet github, notification mail de proposition de participation
+### Reddit:
+-**Action:** Post 
+-**Reaction:** Creer un post twitter 
+-**Action:** Post 
+-**Reaction:** Creer un evenement goggle calendar pour marquer le jour et le contenu
+-**Action:** Post son sur reddit 
+-**Reaction:** Automatically add on spotify 
+-**Action:** Nouveau post de projet github
+-**Reaction:** Notification mail de proposition de participation
