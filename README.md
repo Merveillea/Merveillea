@@ -26,15 +26,16 @@ Epitech final project of the third year. Web development project consisting of a
 
 **Intranet:**
 - a l'inscription a une activité, il ajoute un reminder google  
-spotify
+
+**Spotify**
 - faire un tweet lorsqu'on decide de partager une playlist
 - faire rajouter un nouveau son poster ayant rapport a spotify dans sa stream list 
-github
+
+**Github**
 - creation d'un repo, rajoute le nom du projet a google task et un daily reminder est créé
 - creation d'un repo et un post sur twitter ou github
 - creation d'un repo et creer une plauylist spotify avec le meme intitulé 
 - contribuer a un projet et s'abonner directement a la page twitter de ce dernier ou reddit 
-rss
 
 **Meteo:**
 - en fonction de la temperature proposer des notifs de playlist avec des intitulés commme 'sunny ou rainy ou cold ou hot'
