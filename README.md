@@ -42,6 +42,3 @@ Epitech final project of the third year. Web development project consisting of a
 - **Reaction:** Creer une plauylist spotify avec le meme intitulé 
 - **Action:** Contribuer a un projet 
 - **Reaction:** S'abonner directement a la page twitter de ce dernier ou reddit 
-
-### Meteo:
-- **Reaction:** En fonction de la temperature proposer des notifs de playlist avec des intitulés commme 'sunny ou rainy ou cold ou hot'
