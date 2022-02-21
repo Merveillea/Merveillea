@@ -24,7 +24,7 @@ Epitech final project of the third year. Web development project consisting of a
 ## Action and reaction proposition
 
 
-- **Intranet**
+**Intranet**
 
 - a l'inscription a une activité, il ajoute un reminder google  
 spotify
@@ -37,7 +37,7 @@ github
 - contribuer a un projet et s'abonner directement a la page twitter de ce dernier ou reddit 
 rss
 - 
-- **Meteo**
+**Meteo**
 
 - en fonction de la temperature proposer des notifs de playlist avec des intitulés commme 'sunny ou rainy ou cold ou hot'
 gmail
