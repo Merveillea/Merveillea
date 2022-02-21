@@ -50,8 +50,3 @@ Epitech final project of the third year. Web development project consisting of a
 
 ### Youtube:
 - **Reaction:** Proposition de sons youtube qui detende en fonction de la meteo 
-
-### Twitter:
-- ajouter les nouveaux posts job a ses google notes 
-- **Action:** Tweet son sur spotify 
-- **Reaction:** Ajouter a sa playlist spotify
