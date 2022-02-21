@@ -27,8 +27,3 @@ Epitech final project of the third year. Web development project consisting of a
 ### Intranet:
 - **Action:** Inscription a une activité. il ajoute un reminder google
 - **Reaction:** Reminder Google
-
-### Spotify:
-- **Action:** Partager une playlist
-- **Reaction:** Faire un tweet
-- **Reaction:** Faire rajouter un nouveau son poster ayant rapport a spotify dans sa stream list
