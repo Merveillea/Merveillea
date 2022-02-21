@@ -21,11 +21,10 @@ Epitech final project of the third year. Web development project consisting of a
 - Access link in browser
   > http://localhost/8080
 
-##Action and reaction proposition
-from signal import raise_signal
+## Action and reaction proposition
 
 
-intranet 
+- **Intranet** 
 - a l'inscription a une activité, il ajoute un reminder google  
 spotify
 - faire un tweet lorsqu'on decide de partager une playlist
@@ -37,7 +36,7 @@ github
 - contribuer a un projet et s'abonner directement a la page twitter de ce dernier ou reddit 
 rss
 - 
-meteo
+- **Meteo**
 - en fonction de la temperature proposer des notifs de playlist avec des intitulés commme 'sunny ou rainy ou cold ou hot'
 gmail
 Youtube
