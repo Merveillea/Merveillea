@@ -25,64 +25,43 @@ Epitech final project of the third year. Web development project consisting of a
 
 
 ### Intranet:
--**Action:** Inscription a une activité. il ajoute un reminder google
-
--**Reaction:** Reminder Google
-
+- **Action:** Inscription a une activité. il ajoute un reminder google
+- **Reaction:** Reminder Google
 
 ### Spotify:
--**Action:** Partager une playlist
-
--**Reaction:** Faire un tweet
-
--**Reaction:** Faire rajouter un nouveau son poster ayant rapport a spotify dans sa stream list
-
+- **Action:** Partager une playlist
+- **Reaction:** Faire un tweet
+- **Reaction:** Faire rajouter un nouveau son poster ayant rapport a spotify dans sa stream list 
 
 ### Github:
--**Action:** Creation d'un repo
-
--**Reaction:** Rajoute le nom du projet a google task et un daily reminder est créé
-
--**Action:** Creation d'un repo
-
--**Reaction:** Post sur twitter ou github
-
--**Action:** Creation d'un repo
-
--**Reaction:** Creer une plauylist spotify avec le meme intitulé
-
--**Action:** Contribuer a un projet
-
--**Reaction:** S'abonner directement a la page twitter de ce dernier ou reddit 
+- **Action:** Creation d'un repo 
+- **Reaction:** Rajoute le nom du projet a google task et un daily reminder est créé
+- **Action:** Creation d'un repo 
+- **Reaction:** Post sur twitter ou github
+- **Action:** Creation d'un repo 
+- **Reaction:** Creer une plauylist spotify avec le meme intitulé 
+- **Action:** Contribuer a un projet 
+- **Reaction:** S'abonner directement a la page twitter de ce dernier ou reddit 
 
 ### Meteo:
--**Reaction:** En fonction de la temperature proposer des notifs de playlist avec des intitulés commme 'sunny ou rainy ou cold ou hot'
+- **Reaction:** En fonction de la temperature proposer des notifs de playlist avec des intitulés commme 'sunny ou rainy ou cold ou hot'
 
 ### Gmail
 
 ### Youtube:
--**Reaction:** Proposition de sons youtube qui detende en fonction de la meteo 
+- **Reaction:**roposition de sons youtube qui detende en fonction de la meteo 
 
 ### Twitter:
-- ajouter les nouveaux posts job a ses google notes
-
--**Action:** Tweet son sur spotify
-
--**Reaction:** Ajouter a sa playlist spotify
+- ajouter les nouveaux posts job a ses google notes 
+- **Action:** Tweet son sur spotify 
+- **Reaction:** Ajouter a sa playlist spotify
 
 ### Reddit:
--**Action:** Post
-
--**Reaction:** Creer un post twitter
-
--**Action:** Post
-
--**Reaction:** Creer un evenement goggle calendar pour marquer le jour et le contenu
-
--**Action:** Post son sur reddit
-
--**Reaction:** Automatically add on spotify
-
--**Action:** Nouveau post de projet github
-
--**Reaction:** Notification mail de proposition de participation
+- **Action:** Post 
+- **Reaction:** Creer un post twitter 
+- **Action:** Post 
+- **Reaction:** Creer un evenement goggle calendar pour marquer le jour et le contenu
+- **Action:** Post son sur reddit 
+- **Reaction:** Automatically add on spotify 
+- **Action:** Nouveau post de projet github
+- **Reaction:** Notification mail de proposition de participation
