@@ -31,14 +31,4 @@ Epitech final project of the third year. Web development project consisting of a
 ### Spotify:
 - **Action:** Partager une playlist
 - **Reaction:** Faire un tweet
-- **Reaction:** Faire rajouter un nouveau son poster ayant rapport a spotify dans sa stream list 
-
-### Github:
-- **Action:** Creation d'un repo 
-- **Reaction:** Rajoute le nom du projet a google task et un daily reminder est créé
-- **Action:** Creation d'un repo 
-- **Reaction:** Post sur twitter ou github
-- **Action:** Creation d'un repo 
-- **Reaction:** Creer une plauylist spotify avec le meme intitulé 
-- **Action:** Contribuer a un projet 
-- **Reaction:** S'abonner directement a la page twitter de ce dernier ou reddit 
+- **Reaction:** Faire rajouter un nouveau son poster ayant rapport a spotify dans sa stream list
