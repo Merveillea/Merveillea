@@ -49,7 +49,7 @@ Epitech final project of the third year. Web development project consisting of a
 ### Gmail
 
 ### Youtube:
-- **Reaction:**roposition de sons youtube qui detende en fonction de la meteo 
+- **Reaction:** Proposition de sons youtube qui detende en fonction de la meteo 
 
 ### Twitter:
 - ajouter les nouveaux posts job a ses google notes 
