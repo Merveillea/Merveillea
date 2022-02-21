@@ -29,7 +29,7 @@ Epitech final project of the third year. Web development project consisting of a
 - **Reaction:** Reminder Google
 
 ### Spotify:
-- **Action:** Partager une playlistq
+- **Action:** Partager une playlist
 - **Reaction:** Faire un tweet
 - **Reaction:** Faire rajouter un nouveau son poster ayant rapport a spotify dans sa stream list 
 
