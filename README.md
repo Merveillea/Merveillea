@@ -31,8 +31,8 @@ Welcome to our amazing AREA. We have 11 Services to you. Let's display it:
 - Spotify
 - Twitter
 - Youtube
-- Facebook
 - Intranet
+- Facebook
 - Instagram
 - Google keeps
 - Google Calandar
