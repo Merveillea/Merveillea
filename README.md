@@ -24,7 +24,7 @@ Epitech final project of the third year. Web development project consisting of a
 ## Action and reaction proposition
 
 
-**Intranet:**
+### Intranet: ###
 - a l'inscription a une activité, il ajoute un reminder google  
 
 **Spotify:**
