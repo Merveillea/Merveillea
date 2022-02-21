@@ -23,7 +23,7 @@ Epitech final project of the third year. Web development project consisting of a
 
 ## AREA SERVICES
 
-Welcome to our amazing AREA. We have 11 Services to you. Let's display it:
+Welcome to our amazing AREA. We have 12 Services to you. Let's display it:
 - Rss
 - Gmail
 - Github
