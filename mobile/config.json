@@ -7,7 +7,10 @@
       "module": "commonjs",
   
       /* Module Options */
-      "moduleRes
+      "moduleResolution": "node",
+      "esModuleInterop": true,
+      "resolveJsonModule": true,
+  
       /* Strict Options */
       "strict": true,
   
