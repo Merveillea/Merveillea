@@ -49,4 +49,4 @@ Welcome to our amazing AREA. We have 12 Services to you. Let's display it:
 
 
 
-(KKPAY) New transaction =====> (Google Sheet) Ajouter la transaction à un Google Sheet               
+(KKPAY) New transaction =====> (Google Sheet) Add the transaction to Google Sheet               
