@@ -49,4 +49,9 @@ Welcome to our amazing AREA. We have 12 Services to you. Let's display it:
 
 
 
-(KKPAY) New transaction =====> (Google Sheet) Add the transaction to Google Sheet               
+(KKPAY) New transaction =====> (Google Sheet) Add the transaction to Google Sheet
+
+
+
+
+(Reddit) New Post Subreddit =====> (Twitter) Tweet
