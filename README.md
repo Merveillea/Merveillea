@@ -77,5 +77,9 @@ Welcome to our amazing AREA. We have 12 Services to you. Let's display it:
 
 
 
-(Rss) New Article (Japscan.com) =====> (Google Gmail) New mail
-(Rss) New article =====> (Twitter) Tweet                            
+(Rss) New Article (Japscan.com) =====> (Google Gmail) New mail                        
+(Rss) New article =====> (Twitter) Tweet
+
+
+
+
