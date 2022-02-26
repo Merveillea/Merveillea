@@ -65,6 +65,6 @@ Welcome to our amazing AREA. We have 12 Services to you. Let's display it:
 
 
 
-(Spotify) New Playlist =====> (Facebook)(Instagram)(Twitter)(Reddit) Social Sharing
-(Spotify) New Liked song =====> (Facebook)(Instagram)(Twitter)(Reddit) Social Sharing
-(Spotify) New Follow Artist =====> (Facebook)(Instagram)(Twitter)(Reddit) Social Sharing
+(Spotify) New Playlist =====> (Facebook)(Instagram)(Twitter)(Reddit) Social Sharing                         
+(Spotify) New Liked song =====> (Facebook)(Instagram)(Twitter)(Reddit) Social Sharing                             
+(Spotify) New Follow Artist =====> (Facebook)(Instagram)(Twitter)(Reddit) Social Sharing                           
