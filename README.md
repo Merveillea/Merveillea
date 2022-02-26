@@ -44,4 +44,9 @@ Welcome to our amazing AREA. We have 12 Services to you. Let's display it:
 
 
 
-(Intranet) when registering for an activity =====> (Google Calendar) it adds a google reminder                               
+(Intranet) when registering for an activity =====> (Google Calendar) it adds a google reminder
+
+
+
+
+(KKPAY) New transaction =====> (Google Sheet) Ajouter la transaction à un Google Sheet               
