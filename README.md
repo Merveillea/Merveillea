@@ -37,6 +37,6 @@ Welcome to our amazing AREA. We have 12 Services to you. Let's display it:
 - Google keeps
 - Google Calendar
 
-(Twitter) New Tweet =====> (Gmail) Email me
+(Twitter) New Tweet =====> (Gmail) Email me                                                    
 (Twitter) New Tweet =====> (Reddit) New post
 (Twitter) New Event =====> (Google Calendar) it adds a google reminder
