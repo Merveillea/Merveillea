@@ -59,4 +59,4 @@ Welcome to our amazing AREA. We have 12 Services to you. Let's display it:
 
 
 
-(Trello) à l'inscription à une activité  =====> (Google Calendar) il ajoute un reminder google
+(Trello) registering for an activity =====> (Google Calendar) it adds a google reminder            
