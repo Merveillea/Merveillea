@@ -54,4 +54,9 @@ Welcome to our amazing AREA. We have 12 Services to you. Let's display it:
 
 
 
-(Reddit) New Post Subreddit =====> (Twitter) Tweet
+(Reddit) New Post Subreddit =====> (Twitter) Tweet                          
+
+
+
+
+(Trello) à l'inscription à une activité  =====> (Google Calendar) il ajoute un reminder google
