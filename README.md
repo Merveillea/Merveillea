@@ -84,6 +84,6 @@ Welcome to our amazing AREA. We have 12 Services to you. Let's display it:
 
 
 (Youtube) Add songs from videos you like to a spotify playlist  =====> (Spotify)
-(Youtube) New Video =====> (Twitter) New Tweet
-(Youtube) New Video =====> (Instagram) New Posts
+(Youtube) New Video =====> (Twitter) New Tweet                            
+(Youtube) New Video =====> (Instagram) New Posts                         
 (Youtube) New Video =====> (Facebook) New Posts                     
