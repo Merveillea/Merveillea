@@ -35,4 +35,4 @@ Welcome to our amazing AREA. We have 11 Services to you. Let's display it:
 - Facebook
 - Instagram
 - Google keeps
-- Google Calandar
+- Google Calendar
