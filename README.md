@@ -39,7 +39,8 @@ Welcome to our amazing AREA. We have 12 Services to you. Let's display it:
 
 (Twitter) New Tweet =====> (Gmail) Email me                                                    
 (Twitter) New Tweet =====> (Reddit) New post                           
-(Twitter) New Event =====> (Google Calendar) it adds a google reminder                               
+(Twitter) New Event =====> (Google Calendar) it adds a google reminder
+(Twitter) Tweet Job opportunity =====> (Google keeps) keeps as note for later                                                       
 
 
 
